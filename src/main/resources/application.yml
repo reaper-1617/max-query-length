@@ -1,0 +1,7 @@
+
+spring:
+  profiles:
+    active: mysql
+query:
+  generation:
+    size: 1000
